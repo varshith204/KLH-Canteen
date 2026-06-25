@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#fff7ed"/>
+  <rect x="0" y="0" width="1600" height="900" fill="#fb923c" opacity=".7"/>
+  <rect x="180" y="220" width="1240" height="520" rx="42" fill="#ffffff" opacity=".9"/>
+  <rect x="240" y="290" width="1120" height="120" rx="25" fill="#c2410c" opacity=".9"/>
+  <text x="800" y="370" text-anchor="middle" font-family="Arial" font-size="70" font-weight="900" fill="#fff">KLH SMART CANTEEN</text>
+  <g font-family="Arial" font-size="105"><text x="350" y="590">🍔</text><text x="560" y="590">🍕</text><text x="780" y="590">☕</text><text x="980" y="590">🍟</text><text x="1180" y="590">🥤</text></g>
+  <text x="800" y="700" text-anchor="middle" font-family="Arial" font-size="42" font-weight="700" fill="#7c2d12">QueueLess Pre-Order Counter</text>
+</svg>
